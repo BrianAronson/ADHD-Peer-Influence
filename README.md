@@ -1,6 +1,6 @@
 ADHD Peer Influence
 =====
-![](./Images/figure.png | width=200)
+![](./Images/figure.png | width =200)
 
 
 About
