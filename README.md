@@ -1,8 +1,7 @@
 ADHD Peer Influence
 =====
-![](./Images/Figure.png)
 <p align="center">
-  <img src="./Images/Figure.png" style="max-width:50%;">
+  <img src="./Images/Figure.png" style="max-width:10%;">
 </p>
 
 About
